@@ -1,0 +1,5 @@
+# Auto-detect text files and normalize to LF in repo
+* text=auto
+
+# Keep SQL files normalized to LF (consistent with many SQL tools)
+*.sql text eol=lf
